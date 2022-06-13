@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @samukamachado 
 - 👀 I’m interested in Javascript, C#, .Net and React.
 - 🌱 I’m currently learning Express, MongoDB, React and other things.
-- 💪🏻 Here I will share my study cases, dialy facilities codes and more.
+- 💪🏻 Here I will share my study cases, daily facilities codes and more.
